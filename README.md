@@ -1,1 +1,1 @@
-Develop a registration form to sign up and store user information using HTML, CSS, Node.js in MongoDB
+This is a registration form to sign up created using HTML, CSS, Node.js and stores user information in MongoDB
